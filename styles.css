@@ -1,0 +1,9 @@
+.grid {
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid:hover{
+    cursor: pointer;
+}
